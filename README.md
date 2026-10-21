@@ -82,7 +82,7 @@ Soluções desenvolvidas ao longo da minha trajetória profissional e acadêmica
 
 ## 🎓 Ensino & pesquisa
 
-**Atuação atual:** UFRB — Professor Substituto · SENAI · CEEP Áureo de Oliveira Filho · UNIFAN.
+**Atuação atual:** UFRB · SENAI · CEEP Áureo de Oliveira Filho · UNIFAN.
 
 Oriento trabalhos acadêmicos e projetos de conclusão de curso, conectando fundamentos da Computação ao desenvolvimento de soluções tecnológicas.
 
