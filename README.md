@@ -31,107 +31,35 @@ Sou **Engenheiro de Computação e Mestre em Ciência da Computação pela UEFS*
 
 ### Análise de Dados
 
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="42" height="42" alt="R" /><br /><sub>R</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" width="42" height="42" alt="SQL" /><br /><sub>SQL</sub></td>
-</tr>
-</table>
-
-<p>
-<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Azure Databricks" />
-<img src="https://img.shields.io/badge/Power_BI-B8860B?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyIEJJPC90aXRsZT48cGF0aCBkPSJNMTAgMTJhMSAxIDAgMCAxIDEgMXYxMUg0YTEgMSAwIDAgMS0xLTFWMTNhMSAxIDAgMCAxIDEtMWg2Wm0tMi0uNVY3YTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjE3aC00LjVWMTNhMS41IDEuNSAwIDAgMC0xLjUtMS41SDhabTUtNlYxYTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjIyYTEgMSAwIDAgMS0xIDFoLTMuNVY3QTEuNSAxLjUgMCAwIDAgMTUgNS41aC0yWiIvPjwvc3ZnPg%3D%3D" alt="Power BI" />
-</p>
+<table><tr><td align="center"><img src="assets/tech/python.svg" width="56" height="56" alt="Python" title="Python" /><br /><sub>Python</sub></td><td align="center"><img src="assets/tech/r.svg" width="56" height="56" alt="R" title="R" /><br /><sub>R</sub></td><td align="center"><img src="assets/tech/sql.svg" width="56" height="56" alt="SQL" title="SQL" /><br /><sub>SQL</sub></td><td align="center"><img src="assets/tech/databricks.svg" width="56" height="56" alt="Azure Databricks" title="Azure Databricks" /><br /><sub>Azure Databricks</sub></td><td align="center"><img src="assets/tech/powerbi.svg" width="56" height="56" alt="Power BI" title="Power BI" /><br /><sub>Power BI</sub></td></tr></table>
 
 ### Desenvolvimento Mobile
 
-**Android**
-
 <table>
+<tr><th>Serviço compartilhado</th><th>Categoria</th><th>Tecnologias</th><th>Banco de dados</th></tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" /><br /><sub>Java</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="42" height="42" alt="XML" /><br /><sub>XML</sub></td>
-</tr>
+<td align="center" rowspan="3"><img src="assets/tech/firebase.svg" width="56" height="56" alt="Firebase" title="Firebase" /><br /><sub>Firebase</sub></td><td><strong>Android</strong></td><td align="center"><img src="assets/tech/kotlin.svg" width="56" height="56" alt="Kotlin" title="Kotlin" /> &nbsp; <img src="assets/tech/java.svg" width="56" height="56" alt="Java" title="Java" /> &nbsp; <img src="assets/tech/xml.svg" width="56" height="56" alt="XML" title="XML" /><br /><sub>Kotlin · Java · XML</sub></td><td align="center">—</td></tr>
+<tr><td><strong>Híbrido · Flutter</strong></td><td align="center"><img src="assets/tech/flutter.svg" width="56" height="56" alt="Flutter" title="Flutter" /> &nbsp; <img src="assets/tech/dart.svg" width="56" height="56" alt="Dart" title="Dart" /><br /><sub>Flutter · Dart</sub></td><td align="center"><img src="assets/tech/mysql.svg" width="56" height="56" alt="MySQL" title="MySQL" /><br /><sub>MySQL</sub></td></tr>
+<tr><td><strong>Híbrido · React Native</strong></td><td align="center"><img src="assets/tech/expo.svg" width="56" height="56" alt="Expo" title="Expo" /> &nbsp; <img src="assets/tech/react.svg" width="56" height="56" alt="React Native" title="React Native" /> &nbsp; <img src="assets/tech/javascript.svg" width="56" height="56" alt="JavaScript" title="JavaScript" /><br /><sub>Expo · React Native · JavaScript</sub></td><td align="center">—</td></tr>
 </table>
 
-**Híbrido · Flutter**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" /><br /><sub>Flutter</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" /><br /><sub>Dart</sub></td>
-</tr>
-</table>
-
-**Híbrido · React Native**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="42" height="42" alt="Expo" /><br /><sub>Expo</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React Native" /><br /><sub>React Native</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-</tr>
-</table>
-
-**Dados e serviços para aplicações mobile**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" /><br /><sub>Firebase</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" /><br /><sub>MySQL</sub></td>
-</tr>
-</table>
+Firebase integra as três categorias mobile; MySQL aparece associado a Flutter/Dart.
 
 ### Sistemas Embarcados
 
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" /><br /><sub>C</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /><br /><sub>C++</sub></td>
-</tr>
-</table>
+<table><tr><td align="center"><img src="assets/tech/c.svg" width="56" height="56" alt="C" title="C" /><br /><sub>C</sub></td><td align="center"><img src="assets/tech/cplusplus.svg" width="56" height="56" alt="C++" title="C++" /><br /><sub>C++</sub></td></tr></table>
 
 ### Desenvolvimento Web
 
-**Java · JSF · PrimeFaces**
-
 <table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="42" height="42" alt="XHTML" /><br /><sub>XHTML</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java / JSF" /><br /><sub>Java / JSF</sub></td>
-</tr>
+<tr><th>Categoria</th><th>Tecnologias</th><th>Interface</th></tr>
+<tr><td><strong>Java · JSF · PrimeFaces</strong></td>
+<td align="center"><img src="assets/tech/primefaces.svg" width="56" height="56" alt="PrimeFaces" title="PrimeFaces" /> &nbsp; <img src="assets/tech/jsf.svg" width="56" height="56" alt="JSF" title="JSF" /> &nbsp; <img src="assets/tech/java.svg" width="56" height="56" alt="Java" title="Java" /><br /><sub>PrimeFaces · JSF · Java</sub></td><td align="center"><img src="assets/tech/xhtml.svg" width="56" height="56" alt="XHTML" title="XHTML" /><br /><sub>XHTML</sub></td></tr>
+<tr><td><strong>Python · Django</strong></td><td align="center"><img src="assets/tech/django.svg" width="56" height="56" alt="Django" title="Django" /> &nbsp; <img src="assets/tech/python.svg" width="56" height="56" alt="Python" title="Python" /><br /><sub>Django · Python</sub></td><td align="center" rowspan="2"><img src="assets/tech/html.svg" width="56" height="56" alt="HTML" title="HTML" /> &nbsp; <img src="assets/tech/css.svg" width="56" height="56" alt="CSS" title="CSS" /><br /><sub>HTML · CSS</sub></td></tr>
+<tr><td><strong>Angular · TypeScript</strong></td><td align="center"><img src="assets/tech/angular.svg" width="56" height="56" alt="Angular" title="Angular" /> &nbsp; <img src="assets/tech/typescript.svg" width="56" height="56" alt="TypeScript" title="TypeScript" /><br /><sub>Angular · TypeScript</sub></td></tr>
 </table>
 
-<p><img src="https://img.shields.io/badge/PrimeFaces-2563EB?style=for-the-badge&amp;logo=primefaces&amp;logoColor=white" alt="PrimeFaces" /> <img src="https://img.shields.io/badge/JSF-155E75?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="JavaServer Faces — JSF" /></p>
-
-**Python · Django**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="42" height="42" alt="Django" /><br /><sub>Django</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
-</tr>
-</table>
-
-**Angular · TypeScript**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="42" height="42" alt="Angular" /><br /><sub>Angular</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
-</tr>
-</table>
-
-**Base para interfaces web**
-
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML" /><br /><sub>HTML</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" /><br /><sub>CSS</sub></td>
-</tr>
-</table>
+Nesta organização, HTML e CSS são compartilhados pelos grupos Python/Django e Angular/TypeScript; XHTML pertence ao grupo Java/JSF/PrimeFaces.
 
 <details>
 <summary><strong>🔌 Formação complementar em sistemas embarcados</strong></summary>
