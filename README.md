@@ -12,10 +12,6 @@
 <a href="https://www.linkedin.com/in/icaro-vasconcelos-alvim-a88581b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://lattes.cnpq.br/8849420514868939"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-155E75?style=for-the-badge" alt="Currículo Lattes" /></a>
 
-<br /><br />
-
-**UEFS** · Formação &nbsp; | &nbsp; **Full Stack** · Desde 2022 como freelancer &nbsp; | &nbsp; **~5 anos** · Docência
-
 </div>
 
 ---
@@ -27,35 +23,115 @@ Sou **Engenheiro de Computação e Mestre em Ciência da Computação pela UEFS*
 - 💻 **Desenvolvimento:** aplicações web, mobile e desktop, incluindo projetos como freelancer.
 - 📊 **Dados e hardware:** análise de dados, sistemas embarcados e Internet das Coisas.
 - 🎓 **Ensino:** professor na UFRB, SENAI, CEEP Áureo de Oliveira Filho e UNIFAN.
-- 🔬 **Pesquisa:** mestrado sobre evasão nos cursos de graduação em Computação no Brasil.
+- 🔬 **Pesquisa:** educação em Computação, ensino de programação e Engenharia de Software.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Web & desktop
+### Análise de Dados
 
-<img src="https://skillicons.dev/icons?i=java,python,django,angular,ts,js,html,css&amp;theme=dark&amp;perline=8" alt="Java · JSF · PrimeFaces · Python · Django · Angular · TypeScript · JavaScript · HTML · CSS" />
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="42" height="42" alt="R" /><br /><sub>R</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" width="42" height="42" alt="SQL" /><br /><sub>SQL</sub></td>
+</tr>
+</table>
 
-Java · JSF · PrimeFaces · Python · Django · Angular · TypeScript · JavaScript · HTML · CSS
+<p>
+<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Azure Databricks" />
+<img src="https://img.shields.io/badge/Power_BI-B8860B?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlBvd2VyIEJJPC90aXRsZT48cGF0aCBkPSJNMTAgMTJhMSAxIDAgMCAxIDEgMXYxMUg0YTEgMSAwIDAgMS0xLTFWMTNhMSAxIDAgMCAxIDEtMWg2Wm0tMi0uNVY3YTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjE3aC00LjVWMTNhMS41IDEuNSAwIDAgMC0xLjUtMS41SDhabTUtNlYxYTEgMSAwIDAgMSAxLTFoNmExIDEgMCAwIDEgMSAxdjIyYTEgMSAwIDAgMS0xIDFoLTMuNVY3QTEuNSAxLjUgMCAwIDAgMTUgNS41aC0yWiIvPjwvc3ZnPg%3D%3D" alt="Power BI" />
+</p>
 
-### Mobile
+### Desenvolvimento Mobile
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,react&amp;theme=dark&amp;perline=8" alt="Android · Java · Kotlin · XML · Flutter · Dart · React Native · JavaScript · Expo" />
+**Android**
 
-Android · Java · Kotlin · XML · Flutter · Dart · React Native · JavaScript · Expo
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" /><br /><sub>Kotlin</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" /><br /><sub>Java</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="42" height="42" alt="XML" /><br /><sub>XML</sub></td>
+</tr>
+</table>
 
-### Dados & serviços
+**Híbrido · Flutter**
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,firebase&amp;theme=dark&amp;perline=8" alt="Python · R · SQL · MySQL · Firebase · Power BI · Azure Databricks" />
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" /><br /><sub>Flutter</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" /><br /><sub>Dart</sub></td>
+</tr>
+</table>
 
-Python · R · SQL · MySQL · Firebase · Power BI · Azure Databricks
+**Híbrido · React Native**
 
-### Embarcados & IoT
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="42" height="42" alt="Expo" /><br /><sub>Expo</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React Native" /><br /><sub>React Native</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi&amp;theme=dark&amp;perline=8" alt="C · C++ · Raspberry Pi · Integração entre software e hardware" />
+**Dados e serviços para aplicações mobile**
 
-C · C++ · Raspberry Pi · Integração entre software e hardware
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase" /><br /><sub>Firebase</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" /><br /><sub>MySQL</sub></td>
+</tr>
+</table>
+
+### Sistemas Embarcados
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" /><br /><sub>C</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" /><br /><sub>C++</sub></td>
+</tr>
+</table>
+
+### Desenvolvimento Web
+
+**Java · JSF · PrimeFaces**
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="42" height="42" alt="XHTML" /><br /><sub>XHTML</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java / JSF" /><br /><sub>Java / JSF</sub></td>
+</tr>
+</table>
+
+<p><img src="https://img.shields.io/badge/PrimeFaces-2563EB?style=for-the-badge&amp;logo=primefaces&amp;logoColor=white" alt="PrimeFaces" /> <img src="https://img.shields.io/badge/JSF-155E75?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="JavaServer Faces — JSF" /></p>
+
+**Python · Django**
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="42" height="42" alt="Django" /><br /><sub>Django</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /><br /><sub>Python</sub></td>
+</tr>
+</table>
+
+**Angular · TypeScript**
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="42" height="42" alt="Angular" /><br /><sub>Angular</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
+</tr>
+</table>
+
+**Base para interfaces web**
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML" /><br /><sub>HTML</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" /><br /><sub>CSS</sub></td>
+</tr>
+</table>
 
 <details>
 <summary><strong>🔌 Formação complementar em sistemas embarcados</strong></summary>
