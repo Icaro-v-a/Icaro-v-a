@@ -43,8 +43,6 @@ Sou **Engenheiro de Computação e Mestre em Ciência da Computação pela UEFS*
 <tr><td><strong>Híbrido · React Native</strong></td><td align="center"><img src="assets/tech/expo.svg" width="56" height="56" alt="Expo" title="Expo" /> &nbsp; <img src="assets/tech/react.svg" width="56" height="56" alt="React Native" title="React Native" /> &nbsp; <img src="assets/tech/javascript.svg" width="56" height="56" alt="JavaScript" title="JavaScript" /><br /><sub>Expo · React Native · JavaScript</sub></td><td align="center">—</td></tr>
 </table>
 
-Firebase integra as três categorias mobile; MySQL aparece associado a Flutter/Dart.
-
 ### Sistemas Embarcados
 
 <table><tr><td align="center"><img src="assets/tech/c.svg" width="56" height="56" alt="C" title="C" /><br /><sub>C</sub></td><td align="center"><img src="assets/tech/cplusplus.svg" width="56" height="56" alt="C++" title="C++" /><br /><sub>C++</sub></td></tr></table>
@@ -58,8 +56,6 @@ Firebase integra as três categorias mobile; MySQL aparece associado a Flutter/D
 <tr><td><strong>Python · Django</strong></td><td align="center"><img src="assets/tech/django.svg" width="56" height="56" alt="Django" title="Django" /> &nbsp; <img src="assets/tech/python.svg" width="56" height="56" alt="Python" title="Python" /><br /><sub>Django · Python</sub></td><td align="center" rowspan="2"><img src="assets/tech/html.svg" width="56" height="56" alt="HTML" title="HTML" /> &nbsp; <img src="assets/tech/css.svg" width="56" height="56" alt="CSS" title="CSS" /><br /><sub>HTML · CSS</sub></td></tr>
 <tr><td><strong>Angular · TypeScript</strong></td><td align="center"><img src="assets/tech/angular.svg" width="56" height="56" alt="Angular" title="Angular" /> &nbsp; <img src="assets/tech/typescript.svg" width="56" height="56" alt="TypeScript" title="TypeScript" /><br /><sub>Angular · TypeScript</sub></td></tr>
 </table>
-
-Nesta organização, HTML e CSS são compartilhados pelos grupos Python/Django e Angular/TypeScript; XHTML pertence ao grupo Java/JSF/PrimeFaces.
 
 <details>
 <summary><strong>🔌 Formação complementar em sistemas embarcados</strong></summary>
