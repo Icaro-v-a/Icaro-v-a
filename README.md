@@ -3,86 +3,138 @@
 # Ícaro Vasconcelos Alvim
 
 ### Engenheiro de Computação · Mestre em Ciência da Computação
+**Desenvolvedor Full Stack & Professor**
 
-**Desenvolvedor Full Stack · Professor**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=19&amp;duration=3500&amp;pause=1300&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Desenvolvimento+de+software;Dados+e+sistemas+embarcados;Ensino%2C+pesquisa+e+inova%C3%A7%C3%A3o" alt="Desenvolvimento de software · Dados e sistemas embarcados · Ensino, pesquisa e inovação" />
 
-Software, dados e sistemas embarcados em conexão com ensino, pesquisa e inovação.
+<br />
 
-[LinkedIn](https://www.linkedin.com/in/icaro-vasconcelos-alvim-a88581b4/) · [Currículo Lattes](https://lattes.cnpq.br/8849420514868939) · [ORCID](https://orcid.org/0000-0003-4228-0509)
+<a href="https://www.linkedin.com/in/icaro-vasconcelos-alvim-a88581b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://lattes.cnpq.br/8849420514868939"><img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-155E75?style=for-the-badge" alt="Currículo Lattes" /></a>
+
+<br /><br />
+
+**UEFS** · Formação &nbsp; | &nbsp; **Full Stack** · Desde 2022 como freelancer &nbsp; | &nbsp; **~5 anos** · Docência
 
 </div>
 
 ---
 
-## Sobre mim
+## 👋 Sobre mim
 
-Sou **Engenheiro de Computação e Mestre em Ciência da Computação pela Universidade Estadual de Feira de Santana (UEFS)**. Minha trajetória reúne desenvolvimento de software, docência e pesquisa, conectando formação acadêmica e prática profissional.
+Sou **Engenheiro de Computação e Mestre em Ciência da Computação pela UEFS**. Integro desenvolvimento de software, docência e pesquisa para construir soluções e aproximar a formação acadêmica da prática profissional.
 
-Atuo como **desenvolvedor Full Stack**, inclusive em projetos como freelancer desde 2022, e tenho aproximadamente **cinco anos de experiência na educação profissional e no ensino superior**. Desenvolvo soluções web, mobile e desktop, com atuação também em análise de dados, sistemas embarcados e Internet das Coisas.
+- 💻 **Desenvolvimento:** aplicações web, mobile e desktop, incluindo projetos como freelancer.
+- 📊 **Dados e hardware:** análise de dados, sistemas embarcados e Internet das Coisas.
+- 🎓 **Ensino:** professor na UFRB, SENAI, CEEP Áureo de Oliveira Filho e UNIFAN.
+- 🔬 **Pesquisa:** mestrado sobre evasão nos cursos de graduação em Computação no Brasil.
 
-Busco construir soluções para problemas reais e contribuir para a formação de profissionais de Computação, Engenharia e Tecnologia.
+---
 
-## 💻 Desenvolvimento e tecnologias
+## 🛠️ Tecnologias
 
-| Área | Tecnologias |
+### Web & desktop
+
+<img src="https://skillicons.dev/icons?i=java,python,django,angular,ts,js,html,css&amp;theme=dark&amp;perline=8" alt="Java · JSF · PrimeFaces · Python · Django · Angular · TypeScript · JavaScript · HTML · CSS" />
+
+Java · JSF · PrimeFaces · Python · Django · Angular · TypeScript · JavaScript · HTML · CSS
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,react&amp;theme=dark&amp;perline=8" alt="Android · Java · Kotlin · XML · Flutter · Dart · React Native · JavaScript · Expo" />
+
+Android · Java · Kotlin · XML · Flutter · Dart · React Native · JavaScript · Expo
+
+### Dados & serviços
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,firebase&amp;theme=dark&amp;perline=8" alt="Python · R · SQL · MySQL · Firebase · Power BI · Azure Databricks" />
+
+Python · R · SQL · MySQL · Firebase · Power BI · Azure Databricks
+
+### Embarcados & IoT
+
+<img src="https://skillicons.dev/icons?i=c,cpp,raspberrypi&amp;theme=dark&amp;perline=8" alt="C · C++ · Raspberry Pi · Integração entre software e hardware" />
+
+C · C++ · Raspberry Pi · Integração entre software e hardware
+
+<details>
+<summary><strong>🔌 Formação complementar em sistemas embarcados</strong></summary>
+
+EmbarcaTech — Residência Tecnológica em Sistemas Embarcados (2024–2025), com aprofundamento em C/C++ e plataformas como Raspberry Pi.
+
+</details>
+
+---
+
+## 💡 Experiência aplicada
+
+Soluções desenvolvidas ao longo da minha trajetória profissional e acadêmica:
+
+| 🏢 Gestão empresarial | ☀️ Energia fotovoltaica |
 | :--- | :--- |
-| **Análise de dados e visualização** | Python · R · SQL · Power BI · Azure Databricks |
-| **Desenvolvimento web** | Java · JSF · PrimeFaces · Python · Django · Angular · TypeScript · HTML · CSS |
-| **Mobile nativo** | Android · Java · Kotlin · XML |
-| **Mobile multiplataforma** | Flutter · Dart · React Native · JavaScript · Expo |
-| **Sistemas desktop** | Java · Python |
-| **Dados e serviços para aplicações** | MySQL · Firebase |
-| **Sistemas embarcados e IoT** | C · C++ · Raspberry Pi · Integração entre software e hardware |
+| Plataforma web com módulos de funcionários, financeiro, logística e estoque. **Java · JSF · PrimeFaces · SQL** | Desenvolvimento Full Stack de sistema web para dimensionamento de projetos de geração de energia. |
 
-Minha formação complementar inclui o **EmbarcaTech — Residência Tecnológica em Sistemas Embarcados (2024–2025)**, com aprofundamento em programação C/C++ e plataformas como Raspberry Pi.
+| 🗳️ Transparência pública | ⚡ Sistemas elétricos |
+| :--- | :--- |
+| Aplicação colaborativa sobre candidatos e bens declarados na Bahia. **Python · Django · SQL** | Software de simulação e análise, envolvendo modelagem, arquitetura, lógica computacional e interface. |
 
-### Experiência aplicada
+---
 
-Ao longo da minha trajetória, participei do desenvolvimento de soluções em diferentes contextos:
+## 🎓 Ensino & pesquisa
 
-- **Gestão empresarial:** desenvolvimento Full Stack e manutenção de plataforma web com módulos de funcionários, financeiro, logística e estoque, utilizando Java, JSF, PrimeFaces e SQL.
-- **Energia fotovoltaica:** desenvolvimento Full Stack de sistema web para dimensionamento de projetos de geração de energia.
-- **Transparência pública:** desenvolvimento de aplicação web colaborativa sobre candidatos e bens declarados na Bahia, utilizando Python, Django e SQL.
-- **Simulação de sistemas elétricos:** desenvolvimento de software envolvendo modelagem, arquitetura, lógica computacional e interface da aplicação.
+**Atuação atual:** UFRB — Professor Substituto · SENAI · CEEP Áureo de Oliveira Filho · UNIFAN.
 
-Desde 2022, também atuo como **freelancer no desenvolvimento de sistemas web, mobile e aplicações integradas sob demanda**.
+Oriento trabalhos acadêmicos e projetos de conclusão de curso, conectando fundamentos da Computação ao desenvolvimento de soluções tecnológicas.
 
-## 🎓 Docência e orientação
+<details>
+<summary><strong>📚 Áreas de ensino e trajetória docente</strong></summary>
 
-Atualmente, sou **Professor Substituto da Universidade Federal do Recôncavo da Bahia (UFRB)** e exerço atividades docentes no **SENAI**, no **CEEP Áureo de Oliveira Filho** e no **Centro Universitário Nobre (UNIFAN)**. Minha trajetória também inclui passagens por **SENAR, SENAC e UNEX**.
+Aproximadamente cinco anos de experiência na educação profissional e no ensino superior, com passagens também por SENAR, SENAC e UNEX.
 
 Minhas áreas de ensino incluem **programação, desenvolvimento de software, modelagem e testes de sistemas, sistemas embarcados, IoT, Machine Learning e UI/UX**, além de pesquisa, inovação e prototipagem.
 
-Oriento **trabalhos acadêmicos e projetos de conclusão de curso**, acompanhando estudantes desde a concepção da proposta até o desenvolvimento e a apresentação de soluções tecnológicas. Em sala de aula, busco aproximar os fundamentos da Computação das decisões e dos desafios encontrados em projetos reais.
+Acompanho estudantes desde a concepção da proposta até a implementação e apresentação dos resultados.
 
-## 🔬 Pesquisa e produção científica
+</details>
 
-No mestrado, concluído em **2024 na UEFS**, investiguei a **evasão nos cursos de graduação em Computação no Brasil**. Minha produção científica também inclui trabalhos sobre ensino de programação, Engenharia de Software, aprendizagem ativa e tecnologias colaborativas.
+<br />
 
-**Publicações selecionadas**
+<details>
+<summary><strong>🔬 Pesquisa e publicações selecionadas</strong></summary>
+
+No mestrado, concluído em **2024 na UEFS**, investiguei a **evasão nos cursos de graduação em Computação no Brasil**. Minha produção também aborda ensino de programação, Engenharia de Software, aprendizagem ativa e tecnologias colaborativas.
 
 - **Evasão nos Cursos de Graduação em Computação no Brasil** — EduComp, 2024.
 - **Ensino de algoritmos e programação na educação profissional técnica de nível médio: uma revisão sistemática da literatura** — Sitientibus, 2024.
 - **The who, what and how of the current research at the Brazilian Symposium on Software Engineering** — SBES, 2022.
 
-**Reconhecimentos**
+[Produção completa no Currículo Lattes →](https://lattes.cnpq.br/8849420514868939)
+
+</details>
+
+<br />
+
+<details>
+<summary><strong>🏆 Reconhecimentos acadêmicos</strong></summary>
 
 - **Prêmio SOL de Visibilidade** — Sociedade Brasileira de Computação, 2026.
 - **Artigo Destaque no Workshop de Educação e Informática, Trilha 3** — ERBASE, 2021.
 - **Menção Honrosa no Workshop de Educação e Informática** — ERBASE, 2017.
 
-[Consulte a trajetória acadêmica e a produção completa no Lattes →](https://lattes.cnpq.br/8849420514868939)
+</details>
 
-## 📂 Por aqui
+---
 
-Este GitHub reúne **parte da minha produção técnica**, com aplicações, experimentos e atividades de diferentes momentos da minha trajetória. Os repositórios complementam minha experiência em desenvolvimento, ensino e pesquisa.
+## 📂 Meus repositórios
 
-[Explorar os repositórios →](https://github.com/Icaro-v-a?tab=repositories)
+Aplicações, experimentos e atividades que representam parte da minha produção em desenvolvimento, ensino e pesquisa.
+
+[**Explorar os repositórios →**](https://github.com/Icaro-v-a?tab=repositories)
 
 ---
 
 <div align="center">
 
-**Aproximando formação acadêmica, prática profissional e desenvolvimento tecnológico.**
+**Construir soluções. Compartilhar conhecimento. Formar profissionais.**
 
 </div>
